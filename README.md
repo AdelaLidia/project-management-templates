@@ -1,131 +1,236 @@
-# 📁 Plantillas de Project Management
+📁 Project Management Templates
 
-Este repositorio contiene una colección completa de **plantillas editables en Excel** para la gestión de proyectos, organizadas por área funcional. Están diseñadas para ayudar a profesionales de la planificación, seguimiento, análisis de riesgos, control presupuestario y gestión de recursos a mejorar la **eficiencia, claridad y colaboración** en cualquier tipo de proyecto.
+This repository contains a comprehensive collection of editable Excel templates for project management. The templates are organized by functional area and designed to support professionals in planning, tracking, risk assessment, budgeting, and resource allocation. They aim to enhance efficiency, clarity, and collaboration across all types of projects.
 
----
+🎯 What's in this repository?
 
-## 🎯 ¿Qué contiene este repositorio?
+Templates are grouped into four main categories to ensure easy navigation and practical application:
 
-Hemos agrupado las plantillas en **cuatro grandes bloques temáticos** para facilitar su navegación y aplicación práctica:
+🟦 PLANNING & GENERAL CONTROL
 
----
+Template
 
-### 🟦 PLANIFICACIÓN Y CONTROL GENERAL
+Description
 
-| Plantilla                           | Descripción breve                                                  |
-|------------------------------------|---------------------------------------------------------------------|
-| Action Plan                      | Plan de acción con responsables, fechas y estados.                 |
-| Project Charter                    | Documento de inicio de proyecto con objetivos, alcance y recursos. |
-| Project Proposal Cost              | Propuesta de costes estimados del proyecto.                         |
-| Project Resource Plan              | Planificación inicial de recursos humanos y materiales.             |
-| Project Status Report             | Informe periódico del estado del proyecto.                         |
-| Project Timeline                   | Cronograma visual del proyecto.                                     |
-| PMO Budget Template                | Presupuesto global del PMO.                                        |
-| PMO Financial Statement            | Estado financiero de la oficina de proyectos.                      |
-| PMO Multiple Project Template      | Plantilla para gestionar múltiples proyectos desde un mismo archivo.|
+✅ Action Plan
 
----
+A structured plan with tasks, owners, deadlines, and statuses.
 
-### 🟩 SEGUIMIENTO Y MONITOREO
+Project Charter
 
-| Plantilla                    | Descripción breve                                                       |
-|-----------------------------|------------------------------------------------------------------------|
-| 📊 Project Dashboard         | Panel visual de KPIs del proyecto.                                     |
-| 🗓️ Project Calendar          | Calendario editable con eventos clave.                                 |
-| Task Manager                | Asignación y control de tareas.                                       |
-| Task Tracker Template       | Seguimiento de tareas con prioridades y fechas.                        |
-| Issue Tracker               | Registro de incidencias con responsables y fechas de cierre.           |
-| Risk Register               | Matriz de riesgos con impacto y mitigación.                            |
-| Stakeholder Analysis        | Análisis de partes interesadas con influencia/interés.                 |
-| Status Register             | Registro de cambios de estado del proyecto.                            |
-| 🟩⬜🟥 Kanban Board            | Gestión visual por columnas (To Do, In Progress, Done).               |
-| Punch List                  | Lista de tareas pendientes antes de finalizar el proyecto.             |
+Project initiation document outlining goals, scope, and resources.
 
----
+Project Proposal Cost
 
-### 🟨 PRESUPUESTO Y COSTES
+Cost estimate proposal for early-stage planning.
 
-| Plantilla                     | Descripción breve                                                   |
-|------------------------------|----------------------------------------------------------------------|
-| Annual Financial Report      | Reporte financiero anual del proyecto o PMO.                        |
-| Change Log Template          | Registro de cambios y aprobaciones.                                |
-| Cost Benefit Analysis        | Análisis de coste-beneficio con criterios cuantitativos.            |
-| Detailed Costed Workplan     | Plan de trabajo detallado con costes asociados.                     |
-| Gap Analysis                 | Identificación de brechas entre estado actual y deseado.            |
-| Production Scheduling        | Planificación de producción por fases o entregas.                   |
-| Project Budget Review        | Revisión y ajuste del presupuesto del proyecto.                     |
-| Project Cost Control         | Control de gastos en tiempo real.                                  |
-| Project Cost Estimate        | Estimación inicial de costes.                                       |
-| Project Cost Tracker         | Seguimiento de gastos vs presupuesto.                              |
-| Project Cost Trend Analysis  | Análisis de tendencias de costes.                                   |
-| Estimate Template            | Plantilla general para estimaciones.                                |
+Project Resource Plan
 
----
+Initial allocation of human and material resources.
 
-### 🟧 RECURSOS Y RESPONSABILIDADES
+Project Status Report
 
-| Plantilla                     | Descripción breve                                                   |
-|------------------------------|----------------------------------------------------------------------|
-| RACI Template                | Matriz de roles: Responsable, Aprobador, Consultado, Informado.     |
-| Resource Plan               | Planificación de recursos por tarea.                                |
-| Resource Planning Worksheet | Hoja de cálculo para optimizar asignación de recursos.             |
-| Timesheet                   | Registro de horas trabajadas por recurso.                           |
-| Work Schedule               | Horario de trabajo por semana/mes.                                 |
-| To Do List                  | Lista de tareas simple y funcional.                                |
-| WBS (Work Breakdown Structure) | Desglose jerárquico del proyecto en entregables.                  |
+Periodic progress update for stakeholders.
 
----
+Project Timeline
 
-## 🛠️ ¿Cómo usar las plantillas?
+Visual project schedule and deadlines.
 
-1. Descarga la plantilla que necesites desde la carpeta correspondiente.
-2. Ábrela con Excel u otro editor compatible.
-3. Personaliza los campos con los datos de tu proyecto.
-4. Guarda una copia para tu seguimiento o reporte.
+PMO Budget Template
 
-📝 Muchas plantillas incluyen fórmulas automáticas, colores de estado, iconos visuales y validaciones de datos.
+Budget overview template for the Project Management Office.
 
----
+PMO Financial Statement
 
-## 📌 Requisitos
+Financial summary for PMO-level reporting.
 
-- Microsoft Excel 2016 o superior
-- (Opcional) Google Sheets para edición online
-- Fuentes recomendadas: Segoe UI, Calibri, Arial
+PMO Multiple Project Template
 
----
+Tool to manage multiple projects in a unified file.
 
-## 🤝 Contribuciones
+🟩 MONITORING & TRACKING
 
-¿Tienes tu propia plantilla útil y bien organizada? ¡Compártela!
+Template
 
-1. Haz un fork de este repositorio.
-2. Añade tu plantilla en la carpeta correspondiente.
-3. Haz un pull request con una breve descripción de tu aporte.
+Description
 
----
+📊 Project Dashboard
 
-## 📩 ¿Necesitas ayuda?
+Visual KPI dashboard for project status overview.
 
-Puedes abrir un [issue](https://github.com/AdelaLidia/project-management-templates/issues) si:
+🗓️ Project Calendar
 
-- Tienes dudas sobre alguna plantilla
-- Detectas un error en los cálculos o estructura
-- Quieres sugerir una mejora
+Editable calendar for milestones and key dates.
 
----
+Task Manager
 
-## 👩‍💼 Mantenido por
+Task assignment and progress tracking.
 
-Adela — Departamento de Grandes Cuentas y Gestión de Proyectos  
-📧 Contacto: [al79.scrobota@gmail.com]
+Task Tracker Template
 
----
+Priority-based task tracking with due dates.
 
-## 📄 Licencia
+Issue Tracker
 
-Este repositorio se distribuye bajo la licencia MIT. Puedes utilizar, modificar y redistribuir estas plantillas libremente, siempre que incluyas atribución al repositorio original.
+Log for tracking open issues and resolutions.
 
----
+Risk Register
 
-> 🧠 _"Una buena plantilla no sustituye a la gestión, pero puede hacerla mucho más fácil."_  
+Matrix for identifying, assessing, and mitigating risks.
+
+Stakeholder Analysis
+
+Stakeholder map based on influence and interest.
+
+Status Register
+
+Central record of project phase/status updates.
+
+🟩⬜🔴 Kanban Board
+
+Visual task board for workflow stages (To Do, In Progress, Done).
+
+Punch List
+
+Final checklist before closing the project.
+
+🟨 BUDGET & COST MANAGEMENT
+
+Template
+
+Description
+
+Annual Financial Report
+
+Yearly financial overview for the project or PMO.
+
+Change Log Template
+
+Log of changes and approvals across the project.
+
+Cost Benefit Analysis
+
+Template to compare estimated costs and benefits.
+
+Detailed Costed Workplan
+
+Workplan with itemized budget breakdown.
+
+Gap Analysis
+
+Identification of gaps between current state and target.
+
+Production Scheduling
+
+Schedule planning for production phases or deliverables.
+
+Project Budget Review
+
+Review and revision of planned vs. actual budget.
+
+Project Cost Control
+
+Real-time expense tracking tool.
+
+Project Cost Estimate
+
+Initial budgeting tool for new projects.
+
+Project Cost Tracker
+
+Budget tracker comparing forecasts and actuals.
+
+Project Cost Trend Analysis
+
+Analysis of cost evolution over time.
+
+Estimate Template
+
+General-purpose estimation template.
+
+🟧 RESOURCES & RESPONSIBILITIES
+
+Template
+
+Description
+
+RACI Template
+
+Role assignment matrix: Responsible, Accountable, Consulted, Informed.
+
+Resource Plan
+
+Resource allocation per task or phase.
+
+Resource Planning Worksheet
+
+Spreadsheet to optimize resource distribution.
+
+Timesheet
+
+Timesheet log for individual or team hours.
+
+Work Schedule
+
+Weekly or monthly working schedule planner.
+
+To Do List
+
+Simple and functional task checklist.
+
+WBS (Work Breakdown Structure)
+
+Hierarchical breakdown of project deliverables and components.
+
+🛠️ How to use the templates
+
+Download the template you need from the relevant folder.
+
+Open it with Excel or any compatible spreadsheet editor.
+
+Customize it with your project data.
+
+Save a working copy for reporting or internal use.
+
+📝 Many templates include built-in formulas, visual indicators, dropdowns, and validations.
+
+📌 Requirements
+
+Microsoft Excel 2016 or later
+
+(Optional) Google Sheets for online collaboration
+
+Recommended fonts: Segoe UI, Calibri, Arial
+
+🤝 Contributions
+
+If you have a well-structured, useful template you'd like to share:
+
+Fork this repository.
+
+Add your file to the appropriate folder.
+
+Submit a pull request with a short description of your contribution.
+
+📩 Need support?
+
+You can open an issue if you:
+
+Have questions about a template
+
+Notice a bug or miscalculation
+
+Would like to suggest an improvement
+
+👩‍💼 Maintained by
+
+Adela Scrobota 📧 Contact: [al79.scrobota@gmail.com]
+
+📄 License
+
+This repository is distributed under the MIT License. You are free to use, modify, and redistribute the templates, provided attribution is included.
+
+🧠 "A good template won't replace project management, but it can make it a lot easier."
+
+
+
