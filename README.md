@@ -14,7 +14,7 @@ Hemos agrupado las plantillas en **cuatro grandes bloques temáticos** para faci
 
 | Plantilla                           | Descripción breve                                                  |
 |------------------------------------|---------------------------------------------------------------------|
-| ✅ Action Plan                      | Plan de acción con responsables, fechas y estados.                 |
+| Action Plan                      | Plan de acción con responsables, fechas y estados.                 |
 | Project Charter                    | Documento de inicio de proyecto con objetivos, alcance y recursos. |
 | Project Proposal Cost              | Propuesta de costes estimados del proyecto.                         |
 | Project Resource Plan              | Planificación inicial de recursos humanos y materiales.             |
